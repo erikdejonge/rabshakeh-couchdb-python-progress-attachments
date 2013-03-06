@@ -5,3 +5,7 @@ dist/*
 *.egg*
 doc/api/*
 doc/index.html
+.DS_Store
+*.pyc
+*.pyo
+.idea
